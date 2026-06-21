@@ -1,0 +1,9 @@
+grocerydataset/
+__pycache__/
+*.pyc
+*.o
+ports/h4
+ports/h4_core
+ports/h4_core_rs
+*.tar.gz
+.DS_Store

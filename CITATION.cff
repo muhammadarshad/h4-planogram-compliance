@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "H4 Planogram Compliance: A Parameter-Free, Float-Free Pipeline for Constrained Retail Vision"
+message: "If you use this work, please cite it."
+type: software
+authors:
+  - family-names: Arshad
+    given-names: Muhammad
+keywords:
+  - planogram compliance
+  - H4 transform
+  - integer arithmetic
+  - FPU-free vision
+  - retail IoT
+  - product retrieval
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/muhammadarshad/h4-planogram-compliance"
